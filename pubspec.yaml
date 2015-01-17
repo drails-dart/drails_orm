@@ -1,0 +1,7 @@
+name: drails_orm
+version: 0.0.1
+author: Luis Vargas <luisvargastijerino@gmail.com>
+description: A pub package
+dependencies:
+  drails_commons:
+    path: ../drails_commons
